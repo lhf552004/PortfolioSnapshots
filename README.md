@@ -17,3 +17,5 @@ Display:
 ![Sankey](./Hive%20Geospatial/Viz-Sankey1.png)
 
 ![Sankey](./Hive%20Geospatial/Viz-Sanky2.png)
+
+![Spatial](./Hive%20Geospatial/Spatial-comparison.png)
