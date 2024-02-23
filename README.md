@@ -22,6 +22,8 @@ Display:
 
 ## Sakura Fu Sushi
 
+Website:
+[Sakura Fu Sushi](https://sakurafusushi.com)
 Tech:
 
 [Chakra UI](https://chakra-ui.com/)
@@ -30,10 +32,21 @@ Display:
 
 ![Home1](./Sakurafusushi/home1.png)
 
-![Circle](./Sakurafusushi/home2.png)
+![Home2](./Sakurafusushi/home2.png)
 
-![Sankey](./Sakurafusushi/home3.png)
+![Home3](./Sakurafusushi/home3.png)
 
-![Sankey](./Sakurafusushi/product1.png)
+![Product](./Sakurafusushi/product1.png)
 
-![Spatial](./Sakurafusushi/location.png)
+![Location](./Sakurafusushi/location.png)
+
+## Jewelry Saint John
+
+Website:
+[Jewelry Saint John](https://sakurafushi.com)
+
+![Pic1](./Jewelry%20Saint%20John/pic1.png)
+
+![Pic2](./Jewelry%20Saint%20John/pic2.png)
+
+![Pic3](./Jewelry%20Saint%20John/pic3.png)
