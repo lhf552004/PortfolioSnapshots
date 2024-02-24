@@ -6,7 +6,7 @@ This repository is to show cases of private projects I've worked before
 
 - [Hive Geospatial](#HiveGeospatial)
 - [Sakura Fu Sushi](#SakuraFuSushi)
-- [Installation](#JewelrySaintJohn)
+- [Jewelry SaintJohn](#JewelrySaintJohn)
 
 ## HivesGeospatial
 
