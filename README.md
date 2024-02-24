@@ -2,7 +2,13 @@
 
 This repository is to show cases of private projects I've worked before
 
-## Hive Geospatial
+## Table of Contents
+
+- [Hive Geospatial](#HiveGeospatial)
+- [Sakura Fu Sushi](#SakuraFuSushi)
+- [Installation](#JewelrySaintJohn)
+
+## HivesGeospatial
 
 Tech:
 
@@ -20,7 +26,7 @@ Display:
 
 ![Spatial](./Hive%20Geospatial/Spatial-comparison.png)
 
-## Sakura Fu Sushi
+## SakuraFuSushi
 
 Website:
 [Sakura Fu Sushi](https://sakurafusushi.com)
@@ -40,7 +46,7 @@ Display:
 
 ![Location](./Sakurafusushi/location.png)
 
-## Jewelry Saint John
+## JewelrySaintJohn
 
 Website:
 [Jewelry Saint John](https://sakurafushi.com)
