@@ -7,6 +7,8 @@ This repository is to show cases of private projects I've worked before
 - [Hive Geospatial](#HiveGeospatial)
 - [Sakura Fu Sushi](#SakuraFuSushi)
 - [Jewelry SaintJohn](#JewelrySaintJohn)
+- [FLCos2](#FLCos2)
+- [FLCos](#FLCos)
 
 ## HivesGeospatial
 
@@ -30,6 +32,7 @@ Display:
 
 Website:
 [Sakura Fu Sushi](https://sakurafusushi.com)
+
 Tech:
 
 [Chakra UI](https://chakra-ui.com/)
