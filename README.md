@@ -56,3 +56,33 @@ Website:
 ![Pic2](./Jewelry%20Saint%20John/pic2.png)
 
 ![Pic3](./Jewelry%20Saint%20John/pic3.png)
+
+## FLCos2
+
+Website:
+
+[FLCos2](https://lhf552004.github.io/flcos2/)
+
+This project utilizes Angular, Spring Boot, and OPC UA. It is a personal initiative and I am open to discussions and potential collaborations.
+
+![Pic1](./FLCos2/home-page.png)
+
+![Pic2](./FLCos2/mix-line.png)
+
+![Pic3](./FLCos2/workflow.png)
+
+![Pics4](./FLCos2/dash-board.png)
+
+## FLCos
+
+[FLCos](https://flcos.github.io/)
+
+This project utilizes Nodejs, Express, and OPC UA. It is a personal initiative and I am open to discussions and potential collaborations.
+
+![Pic1](./FLCos/Job-detail.png)
+
+![Pic2](./FLCos/mix-line1.png)
+
+![Pic3](./FLCos/mix-line2.png)
+
+![Pics4](./FLCos/mix-line3.png)
