@@ -37,6 +37,10 @@ Display:
 Website:
 [Sakura Fu Sushi](https://sakurafusushi.com)
 
+I have developed a template system that can easily be reused by generating the menu through the project's included tool.
+
+Feel free to contact us if you're interested in deploying websites for your business.
+
 Tech:
 
 [Chakra UI](https://chakra-ui.com/)
@@ -57,6 +61,8 @@ Display:
 
 Website:
 [Jewelry Saint John](https://sakurafushi.com)
+
+This is another application with the same template.
 
 ![Pic1](./Jewelry%20Saint%20John/pic1.png)
 
