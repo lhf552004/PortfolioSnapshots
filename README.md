@@ -39,7 +39,7 @@ Website:
 
 I have developed a template system that can easily be reused by generating the menu through the project's included tool.
 
-Feel free to contact us if you're interested in deploying websites for your business.
+Feel free to contact us if you're interested in deploying websites for your business. [lhf552004@gmail.com](mailto:lhf552004@gmail.com)
 
 Tech:
 
@@ -78,6 +78,8 @@ Website:
 
 This project utilizes Angular, Spring Boot, and OPC UA. It is a personal initiative and I am open to discussions and potential collaborations.
 
+[lhf552004@gmail.com](mailto:lhf552004@gmail.com)
+
 ![Pic1](./FLCos2/home-page.png)
 
 ![Pic2](./FLCos2/mix-line.png)
@@ -90,7 +92,7 @@ This project utilizes Angular, Spring Boot, and OPC UA. It is a personal initiat
 
 [FLCos](https://flcos.github.io/)
 
-This project utilizes Nodejs, Express, and OPC UA. It is a personal initiative and I am open to discussions and potential collaborations.
+This project utilizes Nodejs, Express, and OPC UA. It is a personal initiative and I am open to discussions and potential collaborations. [lhf552004@gmail.com](mailto:lhf552004@gmail.com)
 
 ![Pic1](./FLCos/Job-detail.png)
 
