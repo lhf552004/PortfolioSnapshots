@@ -37,7 +37,9 @@ Display:
 Website:
 [Sakura Fu Sushi](https://sakurafusushi.com)
 
-I have developed a template system that can easily be reused by generating the menu through the project's included tool.
+I have developed a online shop system that can easily be reused by generating the menu through the project's included tool.
+
+It has online order, order auto print, confirmatin email to customer, order management modules
 
 Feel free to contact us if you're interested in deploying websites for your business. [lhf552004@gmail.com](mailto:lhf552004@gmail.com)
 
