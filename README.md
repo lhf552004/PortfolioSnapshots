@@ -39,9 +39,6 @@ It has online order, order auto print, confirmatin email to customer, order mana
 
 Feel free to contact us if you're interested in deploying websites for your business. [lhf552004@gmail.com](mailto:lhf552004@gmail.com)
 
-Tech:
-
-[Chakra UI](https://chakra-ui.com/)
 
 Display:
 
