@@ -16,10 +16,6 @@ Website:
 
 [Hive Dev](https://dev.hivegeospatial.app/)
 
-Tech:
-
-[maplibre](https://maplibre.org/), [D3](https://observablehq.com/@d3/gallery)
-
 Display:
 
 ![List](./Hive%20Geospatial/Viz-List.png)
