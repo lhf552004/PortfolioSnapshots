@@ -16,10 +16,6 @@ Website:
 
 [Hive Dev](https://dev.hivegeospatial.app/)
 
-Tech:
-
-[maplibre](https://maplibre.org/), [D3](https://observablehq.com/@d3/gallery)
-
 Display (For security reason, the pics are deleted):
 
 ![List](./Hive%20Geospatial/Viz-List.png)
@@ -42,10 +38,6 @@ I have developed a online shop system that can easily be reused by generating th
 It has online order, order auto print, confirmatin email to customer, order management modules
 
 Feel free to contact us if you're interested in deploying websites for your business. [lhf552004@gmail.com](mailto:lhf552004@gmail.com)
-
-Tech:
-
-[Chakra UI](https://chakra-ui.com/)
 
 Display:
 
