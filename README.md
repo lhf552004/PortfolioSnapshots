@@ -20,7 +20,7 @@ Tech:
 
 [maplibre](https://maplibre.org/), [D3](https://observablehq.com/@d3/gallery)
 
-Display:
+Display (For security reason, the pics are deleted):
 
 ![List](./Hive%20Geospatial/Viz-List.png)
 
