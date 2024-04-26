@@ -16,8 +16,6 @@ Website:
 
 [Hive Dev](https://dev.hivegeospatial.app/)
 
-Display (For security reason, the pics are deleted):
-
 <img src="./Hive%20Geospatial/Viz-List.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
 <img src="./Hive%20Geospatial/Viz-Circle.png" alt="alt text" title="Image Title" width="600" height="400"/>
