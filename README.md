@@ -18,15 +18,15 @@ Website:
 
 Display (For security reason, the pics are deleted):
 
-![List](./Hive%20Geospatial/Viz-List.png)
+<img src="./Hive%20Geospatial/Viz-List.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
-![Circle](./Hive%20Geospatial/Viz-Circle.png)
+<img src="./Hive%20Geospatial/Viz-Circle.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
-![Sankey](./Hive%20Geospatial/Viz-Sankey1.png)
+<img src="./Hive%20Geospatial/Viz-Sankey1.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
-![Sankey](./Hive%20Geospatial/Viz-Sanky2.png)
+<img src="./Hive%20Geospatial/Viz-Sanky2.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
-![Spatial](./Hive%20Geospatial/Spatial-comparison.png)
+<img src="./Hive%20Geospatial/Spatial-comparison.png" alt="alt text" title="Image Title" width="600" height="400"/>
 
 ## SakuraFuSushi
 
