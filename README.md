@@ -6,6 +6,7 @@ This repository is to show cases of private projects I've worked before
 
 - [Hive Geospatial](#HiveGeospatial)
 - [Sakura Fu Sushi](#SakuraFuSushi)
+- [Daily Habits App](#DailyHabitsApp)
 - [Jewelry SaintJohn](#JewelrySaintJohn)
 - [FLCos2](#FLCos2)
 - [FLCos](#FLCos)
@@ -48,6 +49,18 @@ Display:
 ![Product](./Sakurafusushi/product1.png)
 
 ![Location](./Sakurafusushi/location.png)
+
+## DailyHabitsApp
+
+This is mobile app using Expo and React Native.
+
+![Home](./DailyHabitsApp/Home.PNG)
+
+![Analytics](./DailyHabitsApp/Analytics.PNG)
+
+![Rewards](./DailyHabitsApp/Rewards.PNG)
+
+![Profile](./DailyHabitsApp/Profile.PNG)
 
 ## JewelrySaintJohn
 
